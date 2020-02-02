@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Consumer" />
+        <module name="Gateway-Admin" />
+        <module name="organization" />
+        <module name="Producer" />
+        <module name="Gateway-Web" />
+        <module name="authorization-server" />
+        <module name="gateway-web" />
+        <module name="web" />
+        <module name="authentication-server" />
+        <module name="core" />
+        <module name="gateway-admin" />
+        <module name="resource-server" />
+        <module name="consumer" />
+        <module name="Core" />
+        <module name="Organization" />
+        <module name="Authentication-Server" />
+        <module name="Authorization_Server" />
+        <module name="producer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Authorization-Server" target="1.8" />
+      <module name="Database" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

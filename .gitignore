@@ -1,0 +1,6 @@
+# Project exclude paths
+/Demo/consumer/target/
+/Demo/producer/target/
+/Demo/resource-server/target/
+/Gateway/gateway-admin/target/
+/Gateway/gateway-web/target/

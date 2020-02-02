@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Auth/authentication-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Auth/authorization-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Common/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Common/database" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Common/web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo/authorization-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo/producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Demo/resource-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/gateway-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway/gateway-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System-Admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/System-Admin/organization" charset="UTF-8" />
+  </component>
+</project>

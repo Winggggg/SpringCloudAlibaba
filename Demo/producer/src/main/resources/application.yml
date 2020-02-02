@@ -1,0 +1,13 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: demo-producer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.37.109:8848
+      config:
+        server-addr: 192.168.37.109:8848
+        file-extension: yml
+

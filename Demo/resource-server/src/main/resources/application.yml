@@ -1,0 +1,12 @@
+server:
+  port: 8585
+spring:
+  redis:
+    host: 192.168.37.109
+    database: 1
+
+feign:
+  httpclient:
+    enabled: false
+  okhttp:
+    enabled: true

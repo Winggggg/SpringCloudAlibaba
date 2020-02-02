@@ -1,0 +1,14 @@
+server:
+  port: 9595
+spring:
+  redis:
+    host: ${REDIS_HOST:192.168.37.109}
+    port: ${REDIS_PORT:6379}
+    database: 1
+  rabbitmq:
+    host: ${RABBIT_MQ_HOST:192.168.37.109}
+    port: ${RABBIT_MQ_PORT:5672}
+    username: ${RABBIT_MQ_USERNAME:admin}
+    password: ${RABBIT_MQ_PASSWORD:admin}
+
+
